@@ -7,15 +7,24 @@
 **Air Force Reserve | Aspiring Cloud, Cybersecurity & DevOps Engineer**  
 Building, learning, and documenting everything publicly.
 ## 🚀 About Me
-### 🧰 Tech Stack  
-<div>
-  <img src="https://skillicons.dev/icons?i=aws,linux,github,bash,docker,git" />
-</div>
 - ☁️ Aspiring Cloud & DevOps Engineer
 - ✈️ Air Transportation (Air Force Reserve)
 - 🐧 Learning Linux, AWS, and automation
 - 🔐 Exploring cybersecurity fundamentals
 - 📚 Documenting my journey one project at a time
+## 🚀 About Me
+- 🌥️ Aspiring Cloud & DevOps Engineer
+- ✈️ Air Transportation (Air Force Reserve)
+- 🐧 Learning Linux, AWS, and automation
+- 🔐 Exploring cybersecurity fundamentals
+- 📚 Documenting my journey one project at a time
+
+---
+
+## 🧰 Tech Stack
+<div>
+  <img src="https://skillicons.dev/icons?i=aws,linux,github,bash,docker,git" />
+</div>
 ## 🛠️ Technologies I’m Learning
 - **Cloud:** AWS (EC2, Lightsail, IAM, S3)
 - **Linux:** CLI navigation, permissions, services, SSH
