@@ -12,14 +12,6 @@ Building, learning, and documenting everything publicly.
 - 🐧 Learning Linux, AWS, and automation
 - 🔐 Exploring cybersecurity fundamentals
 - 📚 Documenting my journey one project at a time
-## 🚀 About Me
-- 🌥️ Aspiring Cloud & DevOps Engineer
-- ✈️ Air Transportation (Air Force Reserve)
-- 🐧 Learning Linux, AWS, and automation
-- 🔐 Exploring cybersecurity fundamentals
-- 📚 Documenting my journey one project at a time
-
----
 
 ## 🧰 Tech Stack
 <div>
