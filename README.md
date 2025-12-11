@@ -36,4 +36,3 @@ Building, learning, and documenting everything publicly.
 ## 📬 Connect With Me
 I’m always learning—always building.
 Feel free to reach out or follow my journey!
-![Kelvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevappbuilds&show_icons=true&theme=tokyonight)
