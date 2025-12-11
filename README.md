@@ -2,10 +2,15 @@
 ![Linux](https://img.shields.io/badge/Linux-CLI-yellow?logo=linux)
 ![GitHub](https://img.shields.io/badge/GitHub-Open--Source-black?logo=github)
 
+![Profile Views](https://komarev.com/ghpvc/?username=kevappbuilds&color=blue)
 # 👋 Hey, I'm Kelvin
 **Air Force Reserve | Aspiring Cloud, Cybersecurity & DevOps Engineer**  
 Building, learning, and documenting everything publicly.
 ## 🚀 About Me
+### 🧰 Tech Stack  
+<div>
+  <img src="https://skillicons.dev/icons?i=aws,linux,github,bash,docker,git" />
+</div>
 - ☁️ Aspiring Cloud & DevOps Engineer
 - ✈️ Air Transportation (Air Force Reserve)
 - 🐧 Learning Linux, AWS, and automation
@@ -30,6 +35,7 @@ Building, learning, and documenting everything publicly.
 ## 📬 Connect With Me
 I’m always learning—always building.
 Feel free to reach out or follow my journey!
-
+### 📊 GitHub Stats
+![Kelvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevappbuilds&show_icons=true&theme=tokyonight)
 
 
