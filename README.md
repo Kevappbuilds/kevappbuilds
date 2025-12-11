@@ -1,6 +1,8 @@
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
 ![Linux](https://img.shields.io/badge/Linux-CLI-yellow?logo=linux)
-![GitHub](https://img.shields.io/badge/GitHub-Open--Source-black?logo=github)# 👋 Hey, I’m Kelvin
+![GitHub](https://img.shields.io/badge/GitHub-Open--Source-black?logo=github)# 
+
+👋 Hey, I’m Kelvin
 **Air Force Reserve • Breaking into Cloud Engineering, Cybersecurity & DevOps.**
 Building, learning, and posting everything publicly.
 ## 🚀 About Me
