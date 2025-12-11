@@ -2,9 +2,9 @@
 ![Linux](https://img.shields.io/badge/Linux-CLI-yellow?logo=linux)
 ![GitHub](https://img.shields.io/badge/GitHub-Open--Source-black?logo=github) 
 
-#👋 Hey, I’m Kelvin
-**Air Force Reserve • Breaking into Cloud Engineering, Cybersecurity & DevOps.**
-Building, learning, and posting everything publicly.
+# 👋 Hey, I'm Kelvin
+**Air Force Reserve | Aspiring Cloud, Cybersecurity & DevOps Engineer**  
+Building, learning, and documenting everything publicly.
 ## 🚀 About Me
 - ☁️ Aspiring Cloud & DevOps Engineer
 - ✈️ Air Transportation (Air Force Reserve)
